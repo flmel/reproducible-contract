@@ -1,5 +1,5 @@
 [package]
-name = "fff"
+name = "reproducible-contract"
 description = "cargo-near-new-project-description"
 version = "0.1.0"
 edition = "2021"
